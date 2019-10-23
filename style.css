@@ -1,0 +1,30 @@
+body {
+    margin: 30px;
+    background-color: silver;
+  }
+  
+  p {
+    font-family: "timesnewroman";
+    display: flex;
+    justify-content: center;
+  }
+  
+  .header {
+    font-family: "futura";
+    text-align: center;
+    border: 3px white;
+    border-style: dotted;
+  }
+  
+  h3 {
+    text-align: center;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  img {
+    position: absolute;
+  }
+  
+  
